@@ -27,4 +27,4 @@ AuditorSquad passes your code sequentially through 5 specialized expert lenses:
 ### 1. Import the Skill
 Clone your repository locally or add `auditor-squad` to your AI workspace:
 ```bash
-git clone [https://github.com/kiranagentdev/auditor-squad.git](https://github.com/kiranagentdev/auditor-squad.git)
+git clone https://github.com/kiranagentdev/auditor-squad.git
