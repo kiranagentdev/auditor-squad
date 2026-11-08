@@ -1,0 +1,20 @@
+{
+  "name": "auditor-squad",
+  "version": "1.0.0",
+  "description": "A multi-persona security, compliance, and architecture review board for codebases and cloud configurations.",
+  "author": "Your Name / GitHub Handle",
+  "license": "MIT",
+  "entrypoint": "prompts/orchestrator.md",
+  "tags": [
+    "security-audit",
+    "compliance",
+    "code-review",
+    "devsecops",
+    "claude-skill"
+  ],
+  "permissions": {
+    "read_code": true,
+    "write_code": false,
+    "external_network": false
+  }
+}
